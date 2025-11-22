@@ -15,7 +15,7 @@ Uma interface web elegante e responsiva para explorar um catálogo de filmes, co
 
 ## 🎬 Demonstração Visual
 
-![Screenshot do Projeto CineVerso](https://github.com/Caroline-Fraga/imagem-base-de-filmes/blob/main/base_filmes.png)
+![Screenshot do Projeto CineVerso](https://github.com/Caroline-Fraga/imagem-cineverso/blob/main/cineverso.png)
 
 ---
 
@@ -94,6 +94,7 @@ Desenvolvido com ❤️ por **Caroline Fraga da Silva**.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-fraga-da-silva/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caroline-Fraga)
+
 
 
 
