@@ -75,9 +75,9 @@ E pronto! A aplicação estará funcionando.
 
 A estrutura de arquivos do projeto é simples e organizada da seguinte forma:
 
-├── 📄 index.html # Arquivo principal da estrutura HTML
-├── 📄 style.css # Folha de estilos para o design
-├── 📄 script.js # Lógica de programação e interatividade
+├── 📄 index.html # Arquivo principal da estrutura HTML<br>
+├── 📄 style.css # Folha de estilos para o design<br>
+├── 📄 script.js # Lógica de programação e interatividade<br>
 ├── 📄 data.json # Banco de dados com as informações dos filmes
 
 ---
@@ -94,4 +94,5 @@ Desenvolvido com ❤️ por **Caroline Fraga da Silva**.
 
 [LinkedIn](https://www.linkedin.com/in/caroline-fraga-da-silva/)
 [GitHub](https://github.com/Caroline-Fraga)
+
 
