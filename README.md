@@ -13,7 +13,7 @@ Este projeto é uma interface web elegante e responsiva para explorar um catálo
 
 ---
 
-## 🎬 Demonstração Visual
+## ▶️ Demonstração Visual
 
 - 🔗 [![Deploy GitHub Pages](https://img.shields.io/badge/deploy-github%20pages-brightgreen)](https://caroline-fraga.github.io/CineVerso/)
 
@@ -96,6 +96,7 @@ Desenvolvido com ❤️ por **Caroline Fraga da Silva**.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-fraga-da-silva/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caroline-Fraga)
+
 
 
 
