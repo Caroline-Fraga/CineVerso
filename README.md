@@ -1,4 +1,4 @@
-# CineVerso
+# 🎬 CineVerso
 
 Este projeto é uma interface web elegante e responsiva para explorar um catálogo de filmes, com um design sofisticado inspirado na grandiosidade do Oscar. O projeto permite a busca e a filtragem avançada de filmes, proporcionando uma experiência de usuário imersiva e profissional.
 
@@ -96,6 +96,7 @@ Desenvolvido com ❤️ por **Caroline Fraga da Silva**.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-fraga-da-silva/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caroline-Fraga)
+
 
 
 
