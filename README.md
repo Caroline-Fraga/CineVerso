@@ -78,6 +78,7 @@ E pronto! A aplicação estará funcionando.
 A estrutura de arquivos do projeto é simples e organizada da seguinte forma:
 
 ├── 📄 index.html # Arquivo principal da estrutura HTML<br>
+├── 📄 README.md # Este arquivo<br>
 ├── 📄 style.css # Folha de estilos para o design<br>
 ├── 📄 script.js # Lógica de programação e interatividade<br>
 ├── 📄 data.json # Banco de dados com as informações dos filmes
@@ -96,6 +97,7 @@ Desenvolvido com ❤️ por **Caroline Fraga da Silva**.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caroline-fraga-da-silva/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caroline-Fraga)
+
 
 
 
